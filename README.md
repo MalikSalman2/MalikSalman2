@@ -27,7 +27,7 @@ As a Full stack developer, I'm a creative problem solver specializing in optimiz
 
 <p align="center">
 <a href="https://github.com/MalikSalman1">
-  <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=MalikSalman1&show_icons=true&theme=algolia&count-private=true"/>
+  <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=MalikSalman2&show_icons=true&theme=algolia&count-private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MalikSalman2&theme=algolia&layout=compact&count-private=true"/>
  
 </a>
